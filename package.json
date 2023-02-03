@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/catrionafsmith/serverless-project#readme",
   "devDependencies": {
-    "node-fetch": "^3.3.0"
+    "node-fetch": "^2.6.1"
   }
 }
